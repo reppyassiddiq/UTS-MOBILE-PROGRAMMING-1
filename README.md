@@ -9,3 +9,5 @@ Membuat aplikasi 5 pages
 - Dian nur hamidah       (pembuat ide)
 - M Reppy AS             (pembuat)
 - M Zaenal Nur Haqiqi    (pembuat ide)
+  
+[UTS MOBILE PROGRAMMING 2.pdf](https://github.com/user-attachments/files/17948627/UTS.MOBILE.PROGRAMMING.2.pdf)
